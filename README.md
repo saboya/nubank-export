@@ -5,4 +5,4 @@ Por enquanto a exportação está no formato YNAB4 (You Need a Budget 4).
 
 ![Exemplo](http://i.imgur.com/fv5tcKZ.png)
 
-Utilize por sua conta e rsisco, não me responsabilizo pelo uso da extensão. Não tenho nenhuma relação com o Nubank.
+Utilize por sua conta e risco, não me responsabilizo pelo uso da extensão. Não tenho nenhuma relação com o Nubank.
