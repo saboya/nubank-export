@@ -1,5 +1,7 @@
 # nubank-export
-Extensão para exportar faturas do Nubank em formato CSV. Um botão é adicionado na visualização da fatura, basta clicar nele:
+Esta extensão adiciona um botão que exporta a sua fatura no formato CSV.
+
+Por enquanto a exportação está no formato YNAB4 (You Need a Budget 4).
 
 ![Exemplo](http://i.imgur.com/fv5tcKZ.png)
 
