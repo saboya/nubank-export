@@ -22,7 +22,7 @@ function add_buttons() {
 
 window.addEventListener('click',(clickevent) => {
 	if(clickevent.target.hasAttribute('data-exporttype')) {
-		var bill_index = parseInt(clickevent.target.closest('div.md-tab-content').getAttribute('aria-labelledby').split('_')[1],16);
+		var bill_index = parseInt(clickevent.target.closest('div.md-tab-content').getAttribute('aria-labelledby').split('_')[1],36);
 		var bill = _script_data.bills[_script_data.bills.length - bill_index];
 		var events = _script_data.events;
 		var exporttype = filters[clickevent.target.getAttribute('data-exporttype')];
