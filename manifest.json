@@ -3,7 +3,7 @@
 
   "name": "Nubank Export",
   "description": "Esta extensão adiciona um botão que exporta a sua fatura no formato CSV.",
-  "version": "0.2",
+  "version": "0.3",
   "icons": {
     "16": "nubank16.png",
     "48": "nubank48.png",
